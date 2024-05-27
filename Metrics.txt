@@ -1,0 +1,4 @@
+Total number of words: 5
+Number of unique words: 5
+Maximum word length: 5
+Minimum word length: 2
